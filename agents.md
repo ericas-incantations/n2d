@@ -1,4 +1,4 @@
-# Agents.md — Normal→Displacement Converter (CPU, Windows 11/Linux)
+Normal→Displacement Converter (CPU, Windows 11/Linux)
 
 **Audience:** Code-generating/implementing agents (Codex-like)
 
